@@ -1,0 +1,36 @@
+*{
+	font-family: verdana, sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+#places div{
+	position: relative;
+	left: 400px;
+	top: 50px;
+	display: inline-block;
+	margin: 10px;
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	width: 201px;
+}
+#message{
+	position: relative;
+	left: 400px;
+	top: 50px;
+	width: 50%;
+	height: 20%;
+	border: 1px solid black;
+	padding-left: 10px;
+	margin-left: 10px;
+	overflow: scroll;
+
+}
+.style{
+	position: relative;
+	left: 400px;
+	top: 50px;
+	padding-left: 15px;
+	font-weight: bold;
+	font-size: 20px;
+}
